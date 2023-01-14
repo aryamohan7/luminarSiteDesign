@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap'); 
+.firstRow{
+    background-color: blueviolet;
+}
+.lumLogoImg{
+    margin-left: 13%;
+}
+.textClr{
+    color: rgb(93, 0, 180);
+    font-weight: bolder;
+}
+.btn1{
+    color: white;
+    background-color: rgb(109, 12, 201);
+    width: 200px;
+    height: 65px;
+    font-size: 18px;
+}
+.btn2{
+    color: white;
+    background-color: rgb(109, 12, 201);
+    width: 120px;
+    height: 65px;
+    font-size: 20px;
+}
+.secLumPvt{
+    background-color: whitesmoke;
+    margin-left: 150px;
+}
+
+.btnLearn{
+    color: white;
+    background-color: rgb(109, 12, 201);
+    width: 140px;
+    height: 55px;
+    font-size: 15px;
+}
+.pic_col-6{
+    width: 22%;
+}
+@media (max-width:767){
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .text_all{
+    text-align: left;
+    width: 100%;
+    margin-right: -100%;
+
+}
+.head1{
+    margin-bottom: 2.5%;
+    /* margin-left: -5%;   
+    
+}
+.content1{
+    margin-bottom: 7%;
+}
+.head2{
+    margin-bottom: 2.5%;
+    /* margin-left: -5%;   
+}
+.content2{
+    margin-bottom: 6%;
+}
+.btn1{
+    color: white;
+    background-color: rgb(109, 12, 201);
+    width: 200px;
+    height: 65px;
+    font-size: 20px;
+}
+.btn2{
+    color: white;
+    background-color: rgb(109, 12, 201);
+    width: 120px;
+    height: 65px;
+    font-size: 20px;
+}
+@media(max-width:767){
+    .text_all{
+        text-align: left;
+        /* width: 100%;   
+        justify-content: left;
+        margin-left: -210px;  
+    }
+} */
